@@ -2,8 +2,8 @@
   <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="150"/>
 </p>
 
-<h1 align="center">💧 Rimuru-X Bot</h1>
-<p align="center">A simple and powerful <strong>WhatsApp bot</strong> powered by Ryuhan Baileys fork!</p>
+<h1 align="center">💧 Rimuru Baileys</h1>
+<p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan fork!</p>
 
 <p align="center">
   <a href="https://github.com/ryuhandev/rimuru-baileys-bot/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys-bot?style=flat-square&logo=github" alt="GitHub Stars"/></a>
