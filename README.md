@@ -6,8 +6,8 @@
 <p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan fork!</p>
 
 <p align="center">
-  <a href="https://github.com/ryuhandev/rimuru-baileys-bot/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys-bot?style=flat-square&logo=github" alt="GitHub Stars"/></a>
-  <a href="https://github.com/ryuhandev/rimuru-baileys-bot/issues"><img src="https://img.shields.io/github/issues/ryuhandev/rimuru-baileys-bot?style=flat-square&logo=github" alt="GitHub Issues"/></a>
+  <a href="https://github.com/ryuhandev/rimuru-baileys/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ryuhandev/rimuru-baileys/issues"><img src="https://img.shields.io/github/issues/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Issues"/></a>
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License"/>
 </p>
 
