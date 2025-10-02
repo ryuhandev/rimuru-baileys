@@ -1,24 +1,24 @@
 {
-  "name": "@yupra/baileys",
-  "version": "2.0.2",
-  "description": "@yupra/baileys",
+  "name": "@ryuhan/baileys",
+  "version": "1.0.0",
+  "description": "Tensura Interactive Project",
   "keywords": [
     "baileys",
-    "yupra",
+    "ryuhan",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "automation",
-    "multi-device",
-    "yupra"
+    "multi-device"
   ],
-  "homepage": "https://www.npmjs.com/package/@yupra/baileys",
+  "homepage": "https://github.com/ryuhandev/rimuru-baileys",
   "repository": {
-    "url": "https://www.npmjs.com/package/@yupra/baileys"
+    "type": "git",
+    "url": "https://github.com/ryuhandev/rimuru-baileys.git"
   },
   "license": "MIT",
-  "author": "yupra",
+  "author": "ryuhan",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -37,8 +37,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo 'Yupra Baileys'",
-    "prepare": "echo 'Yupra Baileys'",
+    "prepack": "echo 'Ryuhan Baileys'",
+    "prepare": "echo 'Ryuhan Baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
@@ -92,24 +92,12 @@
     "sharp": "^0.34.1"
   },
   "peerDependenciesMeta": {
-    "audio-decode": {
-      "optional": true
-    },
-    "jimp": {
-      "optional": true
-    },
-    "link-preview-js": {
-      "optional": true
-    },
-    "qrcode-terminal": {
-      "optional": true
-    },
-    "sharp": {
-      "optional": true
-    }
+    "audio-decode": { "optional": true },
+    "jimp": { "optional": true },
+    "link-preview-js": { "optional": true },
+    "qrcode-terminal": { "optional": true },
+    "sharp": { "optional": true }
   },
   "packageManager": "yarn@1.22.19",
-  "engines": {
-    "node": ">=20.0.0"
-  }
+  "engines": { "node": ">=20.0.0" }
 }
