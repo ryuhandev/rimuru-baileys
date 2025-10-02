@@ -85,4 +85,4 @@ This project is not affiliated with WhatsApp Inc. Use it responsibly. Avoid spam
 ---
 
 ### 📄 License
-MIT © 2024 Yupra Network
+MIT © 2025 Ryuhan Minamoto
