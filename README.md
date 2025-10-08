@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">💧 Rimuru Baileys</h1>
-<p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan</p>
+<p align="center">TypeScript-based library for WhatsApp Web API integration, with built-in fixes for group identifiers like `@lid` and `@jid`.
+</p>
 
 <p align="center">
   <a href="https://github.com/ryuhandev/rimuru-baileys/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Stars"/></a>
@@ -15,6 +16,11 @@
 
 ## ✨ Features
 
+- **💧 Intelligent `@lid` and `@jid` mapping
+- **💧 Multi-device support
+- **💧 End-to-End Encryption support
+- **💧 Handles all WhatsApp message types
+- **💧 Fast and modern TypeScript codebase
 - **💧 Multi-Device Support:** Works with latest WhatsApp multi-device protocol.  
 - **💧 Media Handling:** Send and receive images, videos, audio, stickers, and documents.  
 - **💧 Pairing Code Login:** Easy login using Pairing Code.  
