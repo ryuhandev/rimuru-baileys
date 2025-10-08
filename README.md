@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">💧 Rimuru Baileys</h1>
-<p align="center">TypeScript-based library for WhatsApp Web API integration, with built-in fixes for group identifiers like `@lid` and `@jid`.
+<p align="center">TypeScript-based library for WhatsApp Web API integration, with built-in fixes for group identifiers like @lid and @jid.
 </p>
 
 <p align="center">
@@ -116,3 +116,4 @@ start()
   }
 }
 ```
+---
