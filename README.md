@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">💧 Rimuru Baileys</h1>
-<p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan fork!</p>
+<p align="center">A modern and powerful <strong>WhatsApp Bailesy</strong> powered by Ryuhan</p>
 
 <p align="center">
   <a href="https://github.com/ryuhandev/rimuru-baileys/stargazers"><img src="https://img.shields.io/github/stars/ryuhandev/rimuru-baileys?style=flat-square&logo=github" alt="GitHub Stars"/></a>
