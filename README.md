@@ -28,9 +28,9 @@
 
 ```
 {
-  "name": "bot-whatsapp",
+  "name": "your-bot-name",
   "version": "1.1.0",
-  "description": "Simple Bot Whatsapp",
+  "description": "Just Example",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
