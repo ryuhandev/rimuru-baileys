@@ -16,12 +16,12 @@
 
 ## ✨ Features
 
-- **💧 Intelligent `@lid` and `@jid` mapping
-- **💧 Multi-device support
-- **💧 End-to-End Encryption support
-- **💧 Handles all WhatsApp message types
-- **💧 Fast and modern TypeScript codebase
-- **💧 Multi-Device Support:** Works with latest WhatsApp multi-device protocol.  
+- **💧 Intelligent `@lid` and `@jid` mapping**
+- **💧 Multi-device support**
+- **💧 End-to-End Encryption support**
+- **💧 Handles all WhatsApp message types**
+- **💧 Fast and modern TypeScript codebase**
+- **💧 Multi-Device Support:** Works with latest WhatsApp multi-device protocol.
 - **💧 Media Handling:** Send and receive images, videos, audio, stickers, and documents.  
 - **💧 Pairing Code Login:** Easy login using Pairing Code.  
 - **💧 Simple & Extendable:** Clean code structure for customization and adding new features.
