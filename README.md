@@ -88,8 +88,8 @@ start()
   "author": "Someone",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:@ryuhan/baileys",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "npm:@ryuhan/baileys",
+    "@whiskeysockets/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
@@ -116,4 +116,5 @@ start()
   }
 }
 ```
+⚠️ ***JIKA TERJADI ERROR SAAT GENERATE PAIRING CODE PASTIKAN ANDA MENGGUNAKAN REQUIRE BAILEYS "whiskeysockets" JANGAN "adiwajshing
 ---
