@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/f8tj1b.png" alt="Rimuru Bot" width="150"/>
+  <img src="https://files.catbox.moe/f8tj1b.png" alt="Wileys Bot" width="150"/>
 </p>
 
-<h1 align="center">💧 Rimuru Baileys</h1>
+<h1 align="center">💧 Wileys Baileys</h1>
 <p align="center">TypeScript-based library for WhatsApp Web API integration, with built-in fixes for group identifiers like @lid and @jid.
 </p>
 
@@ -22,11 +22,11 @@
 - **💧 Handles all WhatsApp message types**
 - **💧 Fast and modern TypeScript codebase**
 - **💧 Multi-Device Support:** Works with latest WhatsApp multi-device protocol.
-- **💧 Media Handling:** Send and receive images, videos, audio, stickers, and documents.  
-- **💧 Pairing Code Login:** Easy login using Pairing Code.  
+- **💧 Media Handling:** Send and receive images, videos, audio, stickers, and documents.
+- **💧 Pairing Code Login:** Easy login using Pairing Code.
 - **💧 Simple & Extendable:** Clean code structure for customization and adding new features.
 - **💧 Support Botton Message:** You can add cool botton to your bot menu
-- **💧 High Compatibility:** Built on Ryuhan's fork of Baileys for reliable WhatsApp API integration.
+- **💧 High Compatibility:** Built on Wileys's fork of Baileys for reliable WhatsApp API integration.
 
 ---
 ### 💧 Installation

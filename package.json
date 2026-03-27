@@ -1,7 +1,7 @@
 {
-  "name": "@ryuhan/baileys",
-  "version": "1.0.8",
-  "description": "Rimuru Baileys",
+  "name": "@wileys/baileys",
+  "version": "1.0.9",
+  "description": "Wileys Baileys",
   "keywords": [
     "baileys",
     "whatsapp",
@@ -11,15 +11,15 @@
     "tensura",
     "rimuru",
     "multi-device",
-    "ryuhan"
+    "wileys"
   ],
-  "homepage": "https://www.npmjs.com/package/@ryuhan/baileys",
+  "homepage": "https://www.npmjs.com/package/@wileys/baileys",
   "repository": {
     "type": "git",
     "url": "https://github.com/ryuhandev/rimuru-baileys.git"
   },
   "license": "MIT",
-  "author": "ryuhan <ryuhandev@users.noreply.github.com>",
+  "author": "wileys <ryuhandev@users.noreply.github.com>",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
