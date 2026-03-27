@@ -1,7 +1,7 @@
 {
   "name": "@ryuhan/baileys",
-  "version": "1.0.5",
-  "description": "Rimuru Baileys - Fixed Pairing Code Flow",
+  "version": "1.0.6",
+  "description": "Rimuru Baileys - Fixed Pairing Code Flow (blck-baileys compatible)",
   "keywords": [
     "baileys",
     "whatsapp",
